@@ -1,1 +1,22 @@
 mtg_cards.db
+# DBs
+mtg_cards.db
+*.sqlite3
+
+# Virtualenv / Python cache
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs / dumps
+*.log
+*.tmp
+*.bak
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
